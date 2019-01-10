@@ -125,6 +125,13 @@
   url: https://stareast.techwell.com/speak-stareast
   twitter: TechWell
   status: CFP is Open
+  
+- name: Yerevan Testing Days
+  location: Yerevan, Armenia
+  dates: "April 29-May 1, 2019"
+  url: https://evntestingdays.com
+  twitter: evntestingdays
+  status: CFP is Open
 
 - name: WeTest.Athens 2019
   location: Athens, Greece, GR
